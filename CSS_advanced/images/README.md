@@ -1,1 +1,1 @@
-readme file
+<!-- Project: CSS Advanced - Images Preparation -->
